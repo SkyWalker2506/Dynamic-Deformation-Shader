@@ -1,0 +1,17 @@
+{
+  "name": "com.bytegames.dynamic-deformation-shader",
+  "version": "1.0.0",
+  "displayName": "Dynamic Deformation Shader",
+  "description": "Dynamic Deformation Shader.",
+  "unity": "2017.1",
+  "keywords": [
+    "dynamic",
+    "deformation",
+    "shader"
+  ],
+  "author": {
+    "name": "Musab Kara",
+    "email": "musabkara1990@gmail.com"
+  },
+  "type": "tool"
+}
